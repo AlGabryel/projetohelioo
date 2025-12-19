@@ -5,7 +5,9 @@ O app lista desafios ecológicos (economizar água, energia, reduzir resíduos, 
 
 ### Integrantes da equipe
 
-- Substitua por: **Nomes completos dos integrantes** e RAs/matrículas.
+- Ruan Marcilio
+- Allan Gabryel
+- Pedro Augusto
 
 ### Problema e solução proposta
 
