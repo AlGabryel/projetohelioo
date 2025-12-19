@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eco Desafios Sustentáveis</string>
+    <string name="label_desafios">Desafios</string>
+    <string name="label_detalhes_desafio">Detalhes do desafio</string>
+    <string name="label_atualizar_clima">Atualizar clima</string>
+    <string name="content_desafio_item">Item de desafio ecológico</string>
+    <string name="content_botao_concluir_desafio">Concluir desafio</string>
+</resources>
+
+

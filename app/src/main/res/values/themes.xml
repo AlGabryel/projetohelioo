@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema base usando Material3 (Views) para compatibilidade com o Manifest -->
+    <style name="Theme.EcoDesafios" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="android:colorBackground">@color/md_theme_background</item>
+        <item name="android:textColor">@color/md_theme_onBackground</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:navigationBarColor">@color/md_theme_primary</item>
+        <item name="android:statusBarColor">@color/md_theme_primary</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <!-- Removido highTextContrastEnabled, que não está disponível em todos os níveis -->
+    </style>
+
+</resources>
+
+
+

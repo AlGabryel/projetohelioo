@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_background
+color md_theme_error
+color md_theme_onBackground
+color md_theme_onPrimary
+color md_theme_primary
+color md_theme_secondary
+string app_name
+string content_botao_concluir_desafio
+string content_desafio_item
+string label_atualizar_clima
+string label_desafios
+string label_detalhes_desafio
+style Theme.EcoDesafios

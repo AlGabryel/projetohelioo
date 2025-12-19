@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.helio.ecodesafios.app-mergeDebugResources-64:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/docente/.gradle/caches/9.0-milestone-1/transforms/d28dba56ef0fc0b5591c5ecfd056340b/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
